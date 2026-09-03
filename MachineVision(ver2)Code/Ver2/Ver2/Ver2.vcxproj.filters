@@ -15,33 +15,33 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\MachineVision(ver1)_Code\CAlgorithmData.cpp">
+    <ClCompile Include="..\MachineVision_ver2_myCode\CAlgorithmData.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\MachineVision(ver1)_Code\CCameraHandler.cpp">
+    <ClCompile Include="..\MachineVision_ver2_myCode\CCameraHandler.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\MachineVision(ver1)_Code\CInspectionHandler.cpp">
+    <ClCompile Include="..\MachineVision_ver2_myCode\CInspectionHandler.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\MachineVision(ver1)_Code\CPatternData.cpp">
+    <ClCompile Include="..\MachineVision_ver2_myCode\CPatternData.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\MachineVision(ver1)_Code\main.cpp">
+    <ClCompile Include="..\MachineVision_ver2_myCode\main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\MachineVision(ver1)_Code\CAlgorithmData.h">
+    <ClInclude Include="..\MachineVision_ver2_myCode\CAlgorithmData.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\MachineVision(ver1)_Code\CCameraHandler.h">
+    <ClInclude Include="..\MachineVision_ver2_myCode\CCameraHandler.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\MachineVision(ver1)_Code\CInspectionHandler.h">
+    <ClInclude Include="..\MachineVision_ver2_myCode\CInspectionHandler.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\MachineVision(ver1)_Code\CPatternData.h">
+    <ClInclude Include="..\MachineVision_ver2_myCode\CPatternData.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

@@ -18,6 +18,19 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\MachineVision_ver2_myCode\CAlgorithmData.cpp" />
+    <ClCompile Include="..\MachineVision_ver2_myCode\CCameraHandler.cpp" />
+    <ClCompile Include="..\MachineVision_ver2_myCode\CInspectionHandler.cpp" />
+    <ClCompile Include="..\MachineVision_ver2_myCode\CPatternData.cpp" />
+    <ClCompile Include="..\MachineVision_ver2_myCode\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\MachineVision_ver2_myCode\CAlgorithmData.h" />
+    <ClInclude Include="..\MachineVision_ver2_myCode\CCameraHandler.h" />
+    <ClInclude Include="..\MachineVision_ver2_myCode\CInspectionHandler.h" />
+    <ClInclude Include="..\MachineVision_ver2_myCode\CPatternData.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,19 +139,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\MachineVision(ver1)_Code\CAlgorithmData.cpp" />
-    <ClCompile Include="..\..\MachineVision(ver1)_Code\CCameraHandler.cpp" />
-    <ClCompile Include="..\..\MachineVision(ver1)_Code\CInspectionHandler.cpp" />
-    <ClCompile Include="..\..\MachineVision(ver1)_Code\CPatternData.cpp" />
-    <ClCompile Include="..\..\MachineVision(ver1)_Code\main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\MachineVision(ver1)_Code\CAlgorithmData.h" />
-    <ClInclude Include="..\..\MachineVision(ver1)_Code\CCameraHandler.h" />
-    <ClInclude Include="..\..\MachineVision(ver1)_Code\CInspectionHandler.h" />
-    <ClInclude Include="..\..\MachineVision(ver1)_Code\CPatternData.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
